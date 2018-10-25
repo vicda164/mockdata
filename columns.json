@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "id": "t_City1",
+            "name": "Stad",
+            "field": "t_City1",
+            "formatter": "number",
+            "width": 100,
+            "sortable": true
+        },
+        {
+            "id": "name",
+            "name": "Namn",
+            "field": "name",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "t_Country1",
+            "name": "Land",
+            "field": "t_Country1",
+            "formatter": "number",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "t_SwitchBoard",
+            "name": "Telefon",
+            "field": "t_SwitchBoard",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "cmpCreateDate",
+            "name": "Skapad datum",
+            "field": "cmpCreateDate",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 400
+        },
+        {
+            "id": "cmpID",
+            "name": "Företags Id",
+            "field": "cmpID",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "cpdAuthor",
+            "name": "Författare",
+            "field": "cpdAuthor",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "cpdORG",
+            "name": "Org. Id",
+            "field": "cpdORG",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "cpdVer",
+            "name": "cpdVer",
+            "field": "cpdVer",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "cptId",
+            "name": "cptId",
+            "field": "cptId",
+            "formatter": "number",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "id",
+            "name": "id",
+            "field": "id",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        },
+        {
+            "id": "owner",
+            "name": "Ägare",
+            "field": "owner",
+            "formatter": "string",
+            "defaultSort": "",
+            "width": 100
+        }
+    ]
+}

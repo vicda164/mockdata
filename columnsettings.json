@@ -1,0 +1,24 @@
+{
+    "viewName": "customer",
+    "fields": [
+        "cpdName",
+        "adrCity",
+        "adrStreet",
+        "cmpCreateDate"
+    ],
+    "filter": [
+        {
+            "field": "adrCity",
+            "opr": "=",
+            "value": "STOCKHOLM"
+        }
+    ],
+    "sort": [
+        "adrCountry",
+        "adrCity"
+    ],
+    "detailView": "Person",
+    "detailList": [
+        "SystemPerson"
+    ]
+}
