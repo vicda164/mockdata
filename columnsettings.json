@@ -14,8 +14,8 @@
         }
     ],
     "sort": [
-        "adrCountry",
-        "adrCity"
+        {"columnId":"t_Country1","sortAsc":false},
+	{"columnId":"t_City1","sortAsc":true}
     ],
     "detailView": "Person",
     "detailList": [
